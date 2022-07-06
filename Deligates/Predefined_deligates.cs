@@ -17,7 +17,7 @@ namespace Deligates
 
         public void Mul()
         {
-            //adding line for change
+            
             int a = 10, b = 20;
             //return c = a + b;
             Console.WriteLine($"{ a * b}");
